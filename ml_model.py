@@ -10,4 +10,4 @@ def model2():
 def model3():
     print("addig code for ML model3")
 
-print("model 2 is performing best")
+print("model 3 is performing best")
